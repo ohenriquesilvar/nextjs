@@ -1,0 +1,58 @@
+[
+  {
+     "id":1,
+     "name":"tvsansung",
+     "description":"TV2 Sansung 50",
+     "price":"R$ 2999,99",
+     "priority": 3
+  },
+  {
+     "id":2,
+     "name":"motoe",
+     "description":"Motorola E",
+     "price":"R$ 800,00",
+     "priority": 3
+  },
+  {
+     "id":3,
+     "name":"notebookdell",
+     "description":"Notebook dell I5 16ram",
+     "price":"R$ 5999,99",
+     "priority": 1
+  },
+  {
+     "id":4,
+     "name":"notebooklenovo",
+     "description":"Notebook LeNovo",
+     "price":"R$5999,99",
+     "priority": 1
+  },
+  {
+     "id":5,
+     "name":"tecladomouse",
+     "description":"Teclado e mouse sem fio",
+     "price":"R$ 200,00",
+     "priority": 2
+  },
+  {
+     "id":6,
+     "name":"suportenotebook",
+     "description":"Suporte Notebook ",
+     "price":"R$ 50,00",
+     "priority": 2
+  },
+  {
+     "id":7,
+     "name":"mochila",
+     "description":"Mochila notebook 15",
+     "price":"R$ 180,00",
+     "priority": 2
+  },
+  {
+     "id":8,
+     "name":"desktop2",
+     "description":"desktop i7",
+     "price":"R$ 3180,00",
+     "priority": 2
+  }
+]

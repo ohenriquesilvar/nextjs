@@ -1,0 +1,25 @@
+{
+    "env": {
+        "commonjs": true,
+        "es6": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb-base",
+        "prettier",
+        "eslint:recommended"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 12
+    },
+    "plugins": ["prettier"],
+    "rules": {
+        "prettier/prettier": ["error", { "endOfLine": "auto" }],
+        "no-console": "off",
+        "consistent-return": "off",
+        "func-names":"off",
+        "no-async-promise-executor": "off",
+        "array-callback-return": "off",
+        "prefer-promise-reject-errors": "off"
+    }
+}
